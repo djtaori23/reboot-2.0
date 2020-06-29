@@ -6,8 +6,8 @@
 
 
 
-ii) Create a directory with name "-okgoogle"
-#Answer:
+### ii) Create a directory with name "-okgoogle"
+#### Answer:
 ```
 mkdir -- -okgoogle 
 ```
