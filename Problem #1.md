@@ -1,10 +1,10 @@
-*************Not sure about the answer, still looking!***********
+## *************Not sure about the answer, still looking!***********
 
-Problem #1   
-Block System call : 
+# Problem #1   
+## Block System call : 
 
-i)block system call for date command ; that means you don't have to uninstall date command but if you run, kernel must not accept.
-#Answer:
+### i)block system call for date command ; that means you don't have to uninstall date command but if you run, kernel must not accept.
+#### Answer:
 
 date 
 >> this command will give us exact date & time in terminal through CLI method.
@@ -18,8 +18,8 @@ date
 unable to display date 
 >>this message will appear
 
-ii)do the same Firefox as well
-#Answer:
+### ii)do the same Firefox as well
+#### Answer:
  
  firefox 
 >>firefox will open
