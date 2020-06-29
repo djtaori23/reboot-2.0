@@ -15,7 +15,8 @@ date
 >> 'echo' command is used to display text/string that are passed as arguements.
 
  date
-unable to display date >>this message will appear
+unable to display date 
+>>this message will appear
 
 ii)do the same Firefox as well
 #Answer:
@@ -27,4 +28,5 @@ ii)do the same Firefox as well
 >>given value will be assigned
 
  firefox
-unable to open firefox >>this message will appear
+unable to open firefox 
+>>this message will appear
