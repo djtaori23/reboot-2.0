@@ -11,5 +11,5 @@ ii) Create a directory with name "-okgoogle"
 ```
 mkdir -- -okgoogle 
 ```
-/* pass argument '--' with mkdir command which specifies no option and removes the meaning of the operator '-' */
+>> pass argument '--' with mkdir command which specifies no option and removes the meaning of the operator '-' 
 Open files and in Home directory you can see a directory with name -okgoogle.
