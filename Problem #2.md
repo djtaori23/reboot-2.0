@@ -1,7 +1,8 @@
-Problem #2 : Play with directory 
+# Problem #2
+## Play with directory: 
 
-i) Create a directory without name from command line
-#Answer:
+### i) Create a directory without name from command line
+#### Answer:
 
 
 
