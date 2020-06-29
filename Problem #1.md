@@ -7,7 +7,7 @@ i)block system call for date command ; that means you don't have to uninstall da
 #Answer:
 
 date 
-/* this command will give us exact date & time in terminal through CLI method*/
+>> this command will give us exact date & time in terminal through CLI method.
 
  alias date='echo "unable to display date"'
 /* this command when passed will just assign value of your wish to 'date'. Here we've given value "unable to display date". */ 
