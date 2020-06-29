@@ -23,6 +23,8 @@ unable to display date
 ```
 >>this message will appear
 
+<img src="images/Date.png">
+
 ### ii)do the same Firefox as well
 #### Answer:
  ```
@@ -40,3 +42,4 @@ unable to display date
 unable to open firefox 
 ```
 >>this message will appear
+<img src="images/Firefox.png">
