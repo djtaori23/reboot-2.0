@@ -13,7 +13,7 @@
  ```
  date
  ```
- ### NO OUTPUT
+ ### `NO OUTPUT`
  
  <img src="images/6.png">
  
