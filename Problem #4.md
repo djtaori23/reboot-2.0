@@ -51,7 +51,9 @@ now, press `i`(it will take you in Insert Mode) and then type `hello jack`. Afte
 mkdir Jack1 Jack2
 ```
 `ls` (this will show you directories are made.)
+
 `logout` (to logout of account 'Jack')
+
 <img src="images/4.3.png">
 
 ### iv) Now login from Jill user and create a file named Jill.txt using vim editor and write "hey jill".
@@ -73,7 +75,9 @@ now, press `i`(it will take you in Insert Mode) and then type `hey jill`. After 
 mkdir Jill1 Jill2
 ```
 `ls` (this will show you directories are made.)
+
 `logout` (to logout of account 'Jill')
+
 <img src="images/4.5.png">
 
 ### vi) Swap these files and directories in between users.
