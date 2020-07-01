@@ -18,8 +18,10 @@ Note :   You are only allowed to use a single command and only one time.
 
 >> Reboot.txt is shared by all directories.
 
->>To check if we have made all directories correctly, we need to pass "Tree" command in terminal.
+
 ```
 Tree A
 ```
+>>To check if we have made all directories correctly, we need to pass "Tree" command in terminal.
+
 <img src="images/Prob3Ans.png">  
