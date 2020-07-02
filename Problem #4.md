@@ -97,10 +97,15 @@ sudo mv /home/Jack/Jill2 /home/Jack
 
 Let's check if the files and directories are swapped correctly by terminal.
 `su - Jack` (Switched to user 'Jack')
+
 `ls` (files are swapped properly)
+
 `logout`
+
 `su - Jill` (Switched to user 'Jill')
+
 `ls` (files are swapped properly)
+
 `logout`
 
 <img src="images/4.7.png">
