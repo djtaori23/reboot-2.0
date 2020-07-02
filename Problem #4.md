@@ -92,6 +92,7 @@ sudo mv /home/Jack/Jill1 /home/Jack
 sudo mv /home/Jack/Jill2 /home/Jack
 ```
 > These command will swap files and directories we made as per our need without switching to root account(user).
+
 <img src="images/4.6.png">
 
 Let's check if the files and directories are swapped correctly by terminal.
@@ -101,5 +102,7 @@ Let's check if the files and directories are swapped correctly by terminal.
 `su - Jill` (Switched to user 'Jill')
 `ls` (files are swapped properly)
 `logout`
+
 <img src="images/4.7.png">
+
 We can also check it graphically by switching into both the users.
